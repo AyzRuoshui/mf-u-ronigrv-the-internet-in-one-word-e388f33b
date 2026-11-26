@@ -1,8 +1,8 @@
 # The Internet in One Word
 
-[![Competition](https://img.shields.io/badge/make.fun-The%20Internet%20in%20One%20Word-blue)](https://make.fun/c/u-ronigrv-the-internet-in-one-word-e388f33b)
-[![Repository](https://img.shields.io/badge/GitHub-repository-lightgrey)](https://github.com/AyzRuoshui/mf-u-ronigrv-the-internet-in-one-word-e388f33b)
-[![Wallet](https://img.shields.io/badge/Solana-Aj2R5Z6McbdVwKBvN99yfa3aX9qBxdaKf5gTi8oJetPS-green)](https://solscan.io/account/Aj2R5Z6McbdVwKBvN99yfa3aX9qBxdaKf5gTi8oJetPS)
+[![make.fun · u-ronigrv-the-internet-in-one-word-e388f33b](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
+[![rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/AyzRuoshui/mf-u-ronigrv-the-internet-in-one-word-e388f33b/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
+[![reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/AyzRuoshui/mf-u-ronigrv-the-internet-in-one-word-e388f33b/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
 
 A one-word answer to the whole internet: `Parasite`.
 
